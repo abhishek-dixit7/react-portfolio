@@ -21,7 +21,7 @@ const Menu = () => (
 
 const Navbar = () => {
   return (
-    <div className="portfolio__navbar">
+    <div className="portfolio__navbar section__padding">
       <div className="portfolio__navbar-links">
         <div className="portfolio__navbar-links_logo">
           <img src={logo} alt="logo" />

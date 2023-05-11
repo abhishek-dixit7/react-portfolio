@@ -2,7 +2,8 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 2rem 6rem;
+  padding: 0 6rem;
+  margin: 0 7rem;
 }
 
 .portfolio__navbar-links {
@@ -20,6 +21,7 @@
   width: 50px;
   height: 50px;
   border-radius: 50%;
+  cursor: pointer;
 }
 
 .portfolio__navbar-links_container {

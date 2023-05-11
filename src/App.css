@@ -18,6 +18,10 @@ a {
   text-decoration: none;
 }
 
+.section__padding {
+  padding: 3rem 6rem;
+}
+
 .gradiant__bg {
   /* background: -moz-radial-gradient(
     circle at 3% 70%,
