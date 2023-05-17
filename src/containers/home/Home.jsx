@@ -20,16 +20,16 @@ const Home = () => {
           <li>Quick Learner</li>
         </ul>
         <div className="portfolio__home-content-links">
-          <a href="https://twitter.com/your_username">
+          <a href="https://twitter.com/abhishekdixit72">
             <SlSocialTwitter />
           </a>
-          <a href="https://twitter.com/your_username">
+          <a href="https://www.instagram.com/abhishek.dixit0">
             <SlSocialInstagram />
           </a>
-          <a href="https://twitter.com/your_username">
+          <a href="https://github.com/abhishek-dixit7">
             <SiGithub />
           </a>
-          <a href="https://twitter.com/your_username">
+          <a href="https://www.linkedin.com/in/abhishek-dixit-34b76a151/">
             <SiLinkedin />
           </a>
         </div>
