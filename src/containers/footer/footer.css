@@ -18,3 +18,24 @@
   cursor: pointer;
   margin: 0 1rem;
 }
+
+@media screen and (max-width: 1050px) {
+  .portfolio__footer-heading p {
+    font-size: 14px;
+    line-height: 24px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .portfolio__footer-heading p {
+    font-size: 12px;
+    line-height: 22px;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .portfolio__footer-heading p {
+    font-size: 10px;
+    line-height: 20px;
+  }
+}
